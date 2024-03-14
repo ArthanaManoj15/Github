@@ -1,0 +1,134 @@
+#logo{
+    text-align: center;
+    margin-top: 40px;
+}
+.container{
+    align-items: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    word-wrap: break-word;
+}
+.content{
+    width: 330px;
+    height: 240px;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    align-items: center;
+    margin-left: 445px;
+    background-color: #f6f8fa;
+}
+#login{
+    text-align: left;
+    padding: 8px 12px;
+    margin-top: 10px;
+    width: 270px;
+    border: 1px solid #c6c8cb;
+    margin-left: 14px;
+    border-radius: 5px
+}
+#password{
+    text-align: left;
+    padding: 8px 12px;
+    margin-top: 10px;
+    border: 1px solid #c6c8cb;
+    width: 270px;
+    margin-left: 14px;
+    border-radius: 5px;
+}
+.form_details{
+    position: relative;
+    flex-direction: column;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    justify-content: space-between;
+    
+}
+label{
+    margin-left: 13.5px;
+    font-weight: normal;
+    font-size: 14px;
+    color: #1f2328;
+}
+#id1{
+    margin-left: 152px;
+    font-weight: normal;
+    font-size: 14px;
+    text-decoration: none;
+    font-size: 11px;
+}
+button{
+    width: 295px;
+    margin-left: 17px;
+    padding: 8px;
+    border: none;
+    background-color: #116329;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    letter-spacing: normal;
+
+}
+#new{
+    border: 1px solid #d0d7de;
+    width: 330px;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    font-size: 14px;
+    padding: 8px 1px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    margin-left: 55px;
+}
+a{
+    color: #0969DA;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.foot{
+    display: inline-block;
+    margin: 5px 12px;
+    font-size: 12px;
+    margin-left: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 0px;
+}
+
+#ulDesign{
+    padding-left: 0px;
+}
+
+#contact{
+    color: black;
+}
+#contact:hover{
+    color: #0969DA;
+}
+#footer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    align-items: center;
+    text-align: center;
+}
+.centerScreen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
